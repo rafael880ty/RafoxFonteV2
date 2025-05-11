@@ -850,12 +850,21 @@
             "fileSize": "27 GB"
         },
         {
+            "title": "Streamer Life Simulator V1",
+            "uris": [
+                "magnet:?xt=urn:btih:513B400E21FD358E27268F3413EFD7B0670D2873&dn=Streamer-Life-Simulator-Steamrip.com.rar&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online&ws=http%3a%2f%2fremote.utorrent.com%2ftalon%2fseed%2f0545020452%2fcontent%2ff348ea22"
+            ],
+            "uploadDate": "2025-99-99",
+            "fileSize": "1.92 GB"
+        },
+        {
             "title": "LIAR'S BAR (R:ONLINE-FIX) (#NU)",
             "uris": [
                 "magnet:?xt=urn:btih:7d14c2f8f509b66c550d8971c797c547198edbae&dn=Liar%27s%20Bar&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
             ],
             "uploadDate": "2024-10-22",
             "fileSize": "1.56 GB"
+            
         }
     ]
 }
